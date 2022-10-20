@@ -7,6 +7,4 @@ require (
 	google.golang.org/protobuf v1.28.1
 )
 
-replace github.com/golang/protobuf => github.com/golang/protobuf v1.3.5
-
 go 1.15
